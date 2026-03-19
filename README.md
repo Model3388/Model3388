@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ## Greetings - this is Peter Cunningham's professional GitHub page!
 ## I am a 2026 graduate of MIT's professional Data Science AI/ML program, with advanced experience from the geographic information science field
 ## I possess foundational skills in python, including its libraries in TensorFlow, SciKitLearn, gurobipy, pandas, Numpy, and MatPlotLib
@@ -9,4 +9,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
